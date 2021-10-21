@@ -1,0 +1,2 @@
+# GifToolOfBulletScreen
+有图形化界面的透明背景的弹幕表情包制作工具
